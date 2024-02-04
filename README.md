@@ -1,2 +1,3 @@
-# eyes
-java script assignment for coding following eyes
+# Eyes
+## Exercise on eyes
+<img src= "oneeye.png" width='300'/>
